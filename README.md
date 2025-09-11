@@ -1,6 +1,6 @@
 ## What is this?
 
-This is a set of 30 Factorio blueprints for the early to mid-game of the base game. Includes belt balancers, research labs, and smelters to cover common components and streamline factory setup.
+This is a set of 30 Factorio blueprints for the early to mid-game of the base game. Includes belt balancers, research labs, and smelters to cover common components and streamline factory setup (v1.2).
 
 
 ## How to Use
